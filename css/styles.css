@@ -1,3 +1,6 @@
+
+/*===============COMPONENTS================*/
+
 :root {
     --main-font-family: 'Roboto', sans-serif;
 
@@ -12,9 +15,6 @@
     --accent-background: #F5F4FA;
     --hero-button-hover: #188CE8;
 }
-
-
-/*===============COMPONENTS================*/
 
 body {
     font-family: var(--main-font-family);
@@ -249,3 +249,5 @@ body {
 
     color: var(--secondary-color);
 }
+
+/*===============/PORTFOLIO===================*/
